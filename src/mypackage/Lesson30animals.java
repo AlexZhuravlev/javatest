@@ -1,6 +1,6 @@
 package mypackage;
 
-public class Lesson26animals {
+public class Lesson30animals {
 
     String name;
     String color;
@@ -15,13 +15,7 @@ public class Lesson26animals {
 
     }
 
-    private int getterint = 100;
-
-    public int getGetterint() {
-        return getterint;
-    }
-
-    public void setGetterint(int getterint) {
-        this.getterint = getterint;
+    public void sound(){
+        System.out.println("default sound");
     }
 }
