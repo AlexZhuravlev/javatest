@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d90d12a-42b6-4ccd-a113-aa6ed7b3f1ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WnBZALLWRyHqTQKzv8vAOXPyOn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Lesson26">
+    <configuration name="Lesson22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.Lesson22" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.Lesson23" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.Lesson24" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.Lesson25" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.Lesson26" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lesson26" />
+        <item itemvalue="Application.Lesson25" />
+        <item itemvalue="Application.Lesson24" />
+        <item itemvalue="Application.Lesson23" />
+        <item itemvalue="Application.Lesson22" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d90d12a-42b6-4ccd-a113-aa6ed7b3f1ce" name="Default Changelist" comment="" />
+      <created>1579775531717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579775531717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1872" height="276" key="GridCell.Tab.0.bottom" timestamp="1582651827172">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="276" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1582651827172" />
+    <state width="1872" height="276" key="GridCell.Tab.0.center" timestamp="1582651827171">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="276" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1582651827171" />
+    <state width="1872" height="276" key="GridCell.Tab.0.left" timestamp="1582651827171">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="276" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1582651827171" />
+    <state width="1872" height="276" key="GridCell.Tab.0.right" timestamp="1582651827172">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="276" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1582651827172" />
+    <state width="1872" height="349" key="GridCell.Tab.1.bottom" timestamp="1580222076060">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="349" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580222076060" />
+    <state width="1872" height="349" key="GridCell.Tab.1.center" timestamp="1580222076060">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="349" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580222076060" />
+    <state width="1872" height="349" key="GridCell.Tab.1.left" timestamp="1580222076060">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="349" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580222076060" />
+    <state width="1872" height="349" key="GridCell.Tab.1.right" timestamp="1580222076060">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="349" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1580222076060" />
+    <state x="770" y="400" key="com.intellij.ide.util.TipDialog" timestamp="1579775713073">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="770" y="400" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1579775713073" />
+    <state x="624" y="245" key="run.anything.popup" timestamp="1582292729227">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="245" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1582292729227" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1582643560030">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1582643560030" />
+  </component>
+</project>
