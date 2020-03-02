@@ -11,6 +11,7 @@ public class Lesson26animals {
 
     public void sleep() {
         System.out.println("Zzz Zzz Zzz");
+        System.out.println("I'm sleeping!");
 
     }
 }
